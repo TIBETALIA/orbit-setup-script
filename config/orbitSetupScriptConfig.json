@@ -1,0 +1,23 @@
+{
+  "networkFeeReceiver": "0x5Cd43cfF8B02802E2f24532eEBA495946573A349",
+  "infrastructureFeeCollector": "0x5Cd43cfF8B02802E2f24532eEBA495946573A349",
+  "staker": "0xafd9efa12a03aA7a9F0325BD3ac96F9cd2342dC1",
+  "batchPoster": "0xB7724d7b97B26903367AaF7013f13ae453d211ca",
+  "chainOwner": "0x5Cd43cfF8B02802E2f24532eEBA495946573A349",
+  "chainId": 21039640940,
+  "chainName": "My Arbitrum L3 Chain",
+  "minL2BaseFee": 100000000,
+  "parentChainId": 421613,
+  "parent-chain-node-url": "https://goerli-rollup.arbitrum.io/rpc",
+  "rollup": "0x28e582Ba8BF2B49fED61dCA35A8577654fE973dB",
+  "inbox": "0xC3C3E6BC7815c9c059718b9957B22DaaB92Ad3CE",
+  "outbox": "0x8681Ac963B8B775d7D06F1cdF917860b8F6Fa1ae",
+  "adminProxy": "0x6DD2918017fc97ECEE8ABcba364326a57aaccE7b",
+  "sequencerInbox": "0x360bc3D6a4eF4e8AE35738265e65592321F24460",
+  "bridge": "0x2DCdFd9e8E4B37Ff1Be496fC028AB8e3debDAF94",
+  "utils": "0x41A9B24a3E57211360aB046a837c52e2826DDb1a",
+  "validatorWalletCreator": "0xF8AcC066AB0A0d54419541B7F99Aebe34340cda1",
+  "deployedAtBlockNumber": 56867006,
+  "nativeToken": "0x0000000000000000000000000000000000000000",
+  "upgradeExecutor": "0x7b9fde3BeDa6c95d4F3d575bA40663B0Ac89122F"
+}
